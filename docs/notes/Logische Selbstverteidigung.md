@@ -36,9 +36,9 @@ Bei Relevanzfehlschlüssen kann zwar die Logik an sich korrekt sein aber der Sch
 Eine Aussage wird dadurch als wahr belegt, weil sie von einer hohen Autorität oder Mehrheit geäußert wurde. Gleiches gilt für Widerlegung durch gering Autorität oder Minderheit.
 
 >[!example] Beispiele
-*„Die Bundesregierung vertritt die Meinung, dass ...“*
-*„Die meisten Menschen wissen, dass Milch essentiell für gesunde Knochen ist.“*<br>
-*„Du brauchst mir nicht sagen, dass Alkohol schlecht ist, so viel wie Du immer trinkst.“*
+>*„Die Bundesregierung vertritt die Meinung, dass ...“*
+>*„Die meisten Menschen wissen, dass Milch essentiell für gesunde Knochen ist.“*
+>*„Du brauchst mir nicht sagen, dass Alkohol schlecht ist, so viel wie Du immer trinkst.“*
 
 
 >[!question]- Warum ist das falsch? 
@@ -48,28 +48,21 @@ Eine Aussage wird dadurch als wahr belegt, weil sie von einer hohen Autorität o
 ### 🗿 Strohmann-Argument {#strohmann}
 Eine Aussage wird stark verzerrt/vereinfacht/abgewandelt und so ein Argument angegriffen, welches der Sprecher in dieser Weise gar nicht vertritt.
 
-<div class="info card small">
-Beispiele:
+>[!example] Beispiele
+>„Wenn Du Fleisch isst, dann bist Du wohl auch mit Tierquälerei an Schlachthöfen einverstanden.“
 
-„Wenn Du Fleisch isst, dann bist Du wohl auch mit Tierquälerei an Schlachthöfen einverstanden.“
-</div>
-
-Q: Warum ist das falsch?
-A: Die Realität ist ein komplexes Konstrukt und man findet viele implizite Korrelationen und Assoziationen. Die Positionen in einer Diskussionen können aber sehr differenziert sein. Eine Person kann Fleischkonsum befürworten und gleichzeitig Tierquälerei ablehnen (z.B. „Es ist OK Tiere für Fleisch zu töten aber sie sollen dabei nicht leiden“).
+>[!question]- Warum ist das falsch?
+>Die Realität ist ein komplexes Konstrukt und man findet viele implizite Korrelationen und Assoziationen. Die Positionen in einer Diskussionen können aber sehr differenziert sein. Eine Person kann Fleischkonsum befürworten und gleichzeitig Tierquälerei ablehnen (z.B. „Es ist OK Tiere für Fleisch zu töten aber sie sollen dabei nicht leiden“).
 
 
 ### 📣 Whataboutism {#whataboutism}
 Die Diskussion wird auf ein anderes Problem/Argument gelenkt, welches wichtiger/richtiger als das ursprüngliche Argument erscheint.
 
-<div class="info card small">
-Beispiele:
+>[!example] Beispiele:
+>„Bevor wir Plastikstrohhalme in Deutschland verbieten, sollten wir lieber die Ozeane vor Überfischung schützen, denn die ist viel schädlicher.“
 
-„Bevor wir Plastikstrohhalme in Deutschland verbieten, sollten wir lieber die Ozeane vor Überfischung schützen, denn die ist viel schädlicher.“
-
-</div>
-
-Q: Warum ist das falsch?
-A: Nur weil es wichtigere Probleme oder Argumente gibt, bedeutet das nicht, dass ein kleineres Problem oder Argument irrelevant oder falsch ist. Im Gegenteil: Löst man zuerst kleinere Probleme, kann man schneller und langfristiger von der Verbesserung profitieren.
+>[!question]- Warum ist das falsch?
+>Nur weil es wichtigere Probleme oder Argumente gibt, bedeutet das nicht, dass ein kleineres Problem oder Argument irrelevant oder falsch ist. Im Gegenteil: Löst man zuerst kleinere Probleme, kann man schneller und langfristiger von der Verbesserung profitieren.
 
 
 ## 👉🏻 Schwache Induktion
@@ -82,27 +75,22 @@ Bei schwacher Induktion ist unklar, ob aus den Beobachtungen oder Prämissen not
 ### ☔ Scheinkausalität {#scheinkausal}
 Zeitlich oder örtlich gemeinsam auftretenden Ereignissen wird eine falsche/ungeklärte Ursache-Wirkung Beziehung unterstellt.
 
-<div class="info card small">
-Beispiele:
+>[!example] Beispiele:
+>*„Seit der Wahl läuft die Wirtschaft gut. Die Regierung leistet gute Arbeit.“*
+>*„Kein Wunder, dass Natalie so gute Noten bekommt. Sie ist der Liebling der Lehrerin.“*
 
-*„Seit der Wahl läuft die Wirtschaft gut. Die Regierung leistet gute Arbeit.“*<br>
-*„Kein Wunder, dass Natalie so gute Noten bekommt. Sie ist der Liebling der Lehrerin.“*
-</div>
 
-Q: Warum ist das falsch?
-A: Korrelation ≠ Kausalität. Zum Beispiel korreliert Regen mit aufgeklappten Regenschirmen aber es ist keine Kausalität, da für beide Ereignisse (Regen/Regenschirm aufgeklappt) andere Ursachen existieren können.
+>[!question]- Warum ist das falsch?
+>Korrelation ≠ Kausalität. Zum Beispiel korreliert Regen mit aufgeklappten Regenschirmen aber es ist keine Kausalität, da für beide Ereignisse (Regen/Regenschirm aufgeklappt) andere Ursachen existieren können.
 
 
 
 ### 🌊 Dammbruch / Absurdum / Perfektionismus {#dammbruch}
 Die Schlussfolgerung wird so überspitzt, dass das Argument falsch erscheint. Oder: Wenn es keine perfekte Lösung gibt, gibt es gar keine.
 
-<div class="info card small">
-Beispiele:
-
-„Wenn wir die gleichgeschlechtliche Ehe erlauben, wird bald jemand verlangen, dass auch Gruppenehen erlaubt werden.“
-„Was bringen schon Geschwindigkeitsbegrenzungen? Die Leute fahren doch trotzdem zu schnell.“
-</div>
+>[!example] Beispiele:
+>*„Wenn wir die gleichgeschlechtliche Ehe erlauben, wird bald jemand verlangen, dass auch Gruppenehen erlaubt werden.“*
+>*„Was bringen schon Geschwindigkeitsbegrenzungen? Die Leute fahren doch trotzdem zu schnell.“*
 
 Q: Warum ist das falsch?
 A: Argumente, die sich auf ein Spektrum beziehen, gehen oft implizit von einem „angemessenen Grad“ aus. Auch wenn dieser Grad oft unscharf ist, bedeutet dass nicht, dass eine Position automatisch ein Extrem darstellt (Also ob ein Tropfen mehr gleich zum Dammbruch führt). Jemand der den Ausbau des Mobilfunknetzes fordert, möchte vermutlich weder einen einzelnen Mast, noch auf jedem Hausdach einen eigenen Mast bauen, sondern eine „angemessene Menge“ dazwischen.
@@ -114,11 +102,9 @@ A: Sprich an, dass dein Gegenüber voreilig Schlüsse zieht. -->
 ### 🛸 Evidence of Absence
 Eine nicht-Existenz wird durch fehlende Belege bewiesen.
 
-<div class="info card small">
-Beispiele: 
+>[!example] Beispiel: 
+>„Niemand hat je ein UFO gesehen, also gibt es keine UFOs.“
 
-„Niemand hat je ein UFO gesehen, also gibt es keine UFOs.“
-</div>
 
 Q: Warum ist das falsch?
 A: Nur weil man bisher noch keinen Nachweis gefunden hat, folgt daraus nicht zwingend dass es keinen Nachweis gibt. Wenn die Möglichkeit besteht, dass man einen Nachweis finden kann, wäre der voreilige Schluss zur Nicht-Existenz in dem Moment falsch wo der Nachweis gefunden wird.
@@ -135,7 +121,7 @@ A: Nur weil man bisher noch keinen Nachweis gefunden hat, folgt daraus nicht zwi
 ### 1️⃣ Einzelfall Verallgemeinerung {#einzelfall}
 Ein paar wenige Beispiele werden benutzt, um ein verallgemeinerte Aussage zu bestätigen.
 
-<div class="info card small">
+<div class="card small">
 Beispiele: 
 
 „Rauchen ist nicht schädlich, mein Papa hat sein ganzen Leben geraucht und ist kerngesund.“<br>
