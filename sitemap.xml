@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+         <loc>https://docs.emareg.de/Logische%20Selbstverteidigung/</loc>
+         <lastmod>2023-02-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.emareg.de/notes/Logische%20Selbstverteidigung/</loc>
-         <lastmod>2023-01-04</lastmod>
+         <lastmod>2023-02-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
