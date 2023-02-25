@@ -1,11 +1,11 @@
-site_name: Emareg Docs
+site_name: EmaReg Docs
 site_description: A collection of notes
 site_url: https://docs.emareg.de
 
 theme:
     name: 'material'
-    logo: assets/meta/favicons.png
-    favicon: assets/meta/favicons.png
+    logo: assets/meta/favicon.png
+    favicon: assets/meta/favicon.png
     custom_dir: overrides
     font:
         text: Ubuntu
