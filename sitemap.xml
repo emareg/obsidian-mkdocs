@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://docs.emareg.de/</loc>
-         <lastmod>2023-02-25</lastmod>
+         <loc>https://docs.emareg.de/Test-page/</loc>
+         <lastmod>2023-04-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.emareg.de/Life/Kognitive%20Verarbeitung%20im%20Paartanz/</loc>
-         <lastmod>2023-02-25</lastmod>
+         <lastmod>2023-04-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.emareg.de/Life/Logische%20Selbstverteidigung/</loc>
-         <lastmod>2023-02-25</lastmod>
+         <lastmod>2023-04-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.emareg.de/Life/Willenspunkte-System/</loc>
+         <lastmod>2023-04-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.emareg.de/Tech/Unicode%20Diagram%20Drawing/</loc>
+         <lastmod>2023-04-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
