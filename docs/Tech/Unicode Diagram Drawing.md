@@ -10,15 +10,22 @@ category: Tech
 You all have heard about ASCII art and have seen ASCII diagrams. But now UTF8 is default in most applications, and thus enables the creation of beautiful diagrams, like this one:
 
 ```dia
+  ┌─────────────────────┐
+A ┤╺━━━━━━━━━━━━        │ 62.5%   
+B ┤╺━━━━━━━━━━━━━━━━╸   │ 85.0%
+C ┤╺━━━━━━━━━╸          │ 50.0%
+  └┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴┘
+   ⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ¹⁰
+```
+  
+Or to show directories and boxes:
+```dia
+
 some-dorectory/
 ├── Dir_A
 │   └── File_C
 ├── File_A
 └── File_B
-```
-  
-Boxes
-```dia
 ╭────────╮ ┌────────┐
 │ TestA  │ │ Test B │
 ╰────────╯ └────────┘
@@ -64,7 +71,7 @@ Arrows: ← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙ ↚ ↛ ↜ ↝ ↞ ↟ ↠ ↡ 
 
 Boxes:     ▢▣▤▥▦▧▨▩ ◧◨◩◪◫  ⚀⚁⚂⚃⚄⚅
 Circles:   ◍◎●○◐◑◒◓◔◕⬤
-Triagnles: ▲△▶▷▼▽◀◁   ▴▵▸▹▾▿◂◃
+Triagnles: ▲△▶▷▼▽◀◁   ▴▵▸▹▾▿◂◃  ♳♴♵♶♷♸♹♺
 Rombs:     ◆◇◈
 
 Shades: ░ ▒ ▓
@@ -82,6 +89,7 @@ Sans:  𝗮 𝗯 𝗰 𝗱 𝗲 𝗳 𝗴 𝗵 𝗶 𝗷 𝗸 𝗹 𝗺 𝗻 �
 ```
 3-Stage Progress: ○◒⬤
 5-Stage Progress: ○◔◑◕◕⬤
+7-Iterations
 
 https://en.wikibooks.org/wiki/Unicode/List_of_useful_symbols
 https://yaytext.com/bold-italic/
@@ -123,12 +131,16 @@ Unicode Emojis can be used to make concepts more visually appealing.
 * ⚠🚧 Warnung | 📣🔔 Announcements
 * 🧪 Experimental | 🗑 Deprecated
 * 🔥 Hot/new
-* 📡 Status
+* 📡 Status: ❌🆘🟧🟨🟩❇✳✅
+
+
+Arrow Types: Timeflow ↣  Send ⇝  Implication → Evolution⇾ Move ⇥ Dimension ⇸
 
 Further: 🌐♻👁‍🗨🗃👉🤝 ⬜🔳✅
 
 
-
+🥇🥈🥉
+☹😐🙂😀🤩
 
 # 📚 References
 

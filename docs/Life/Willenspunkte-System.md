@@ -8,7 +8,7 @@ category: Life
 ---
 👨‍🔬 F. Wolff & E. Regnath · 📆 Dec. 2022 ·  🧪 Entwurf v1.1
 
-Willenspunkte sind eine Skala, mit der Personen ihre Vorlieben und Abneigungen zum Ausdruck bringen können. Das Willenspunkte-System hilft bei der Entscheidungsfindung innerhalb von Gruppen und ist besonders gut für zwei Arten von Abstimmungen geeignet:
+Die Frage “Wer isst das letzte Kuchenstück?” startet oft ein soziales Mind-Game das verbales Fingerspitzengefühl erfordert. Vielleicht hättest Du das Kuchenstück gerne aber Du willst auch nicht unhöflich wirken? Genau dafür bieten Willenspunkte eine neutrale Möglichkeit um Vorlieben und Abneigungen zum Ausdruck zu bringen. Das Willenspunkte-System hilft bei der Entscheidungsfindung innerhalb von Gruppen und ist besonders gut für zwei Arten von Abstimmungen geeignet:
 
 1. Angebot für eine Person, z.B. “Wer isst das letzte Kuchenstück?”
 2. Auswahl für eine Gruppe, z.B. “Was wollen wir spielen? A oder B?”
