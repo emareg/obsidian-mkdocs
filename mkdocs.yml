@@ -120,6 +120,7 @@ extra_css:
 extra:
   generator: false
   SEO: assets/meta/SEO.png
+  comments: false #disable comments globally
   blog_list:
     pagination: true
     pagination_message: true
