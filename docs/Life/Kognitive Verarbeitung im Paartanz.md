@@ -6,6 +6,7 @@ keywords: [Paartanz]
 share: true
 category: Life
 ---
+👨‍🔬 E. Regnath · 📆 Jul. 2022 · 🧪 v2 · 🏷 #fun
 
 <style>
 code { color: #b11!important; background: none; }
